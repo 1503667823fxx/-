@@ -1,0 +1,5 @@
+{
+  "name": "Fashion AI Studio",
+  "description": "An advanced AI image editing tool specialized in fashion model and garment attribute manipulation using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
